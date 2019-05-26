@@ -1,0 +1,10 @@
+[
+    {
+        "ssid": "Master",
+        "password": "87654321"
+    },
+    {
+        "ssid": "Other",
+        "password": "abcdefghi"
+    }
+]
